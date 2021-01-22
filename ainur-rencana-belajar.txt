@@ -1,0 +1,6 @@
+RENCANA BELAJAR AINUR
+- PHP
+  * Sintaks PHP
+- PHP Framework
+- CSS
+- Bootstrap
