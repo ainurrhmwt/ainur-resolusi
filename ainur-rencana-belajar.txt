@@ -2,7 +2,9 @@ RENCANA BELAJAR AINUR
 - PHP
   * Sintaks PHP
 - PHP Framework
-  * Symfony
+  * Laravel
   * CodeIgniter
+- Struktur Data Dasar
 - CSS
 - Bootstrap
+- Python
